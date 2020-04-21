@@ -1,0 +1,1 @@
+# this is the index view file for reports generate
